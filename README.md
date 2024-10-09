@@ -1,2 +1,2 @@
-# projeto-techinical-writing
+# Documentação Bytebank
 Repositório para fins didáticos com o projeto desenvolvido durante o curso de Techinical Writing da Alura
